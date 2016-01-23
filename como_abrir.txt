@@ -1,0 +1,4 @@
+Para abrir el narrador es la ruta por defecto que tiene la aplicación.
+
+Para abrir el visitante es:
+localhost/Parcial2/visitante
